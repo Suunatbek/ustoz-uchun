@@ -188,7 +188,32 @@ function vdc() {
 
 
         <div class="ml-20 text-2xl mt-16 h-16 text-white flex justify-center text-center w-52 bg-black pt-4">Utility</div>
+
+        <div class="flex justify-center gap-24 mt-24">
+            <div>
+            <img class="h-[500px]" src="https://s3-alpha-sig.figma.com/img/8111/3fb9/51a5f215e75f6566144138187df3f417?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HZSYHgvmts2jNUWmf7j81UfKIES4XXV3tc9tJXsf5qAkfyKCXBNzExqOX7mSS8HhJcINGE7rUBlWpdGmHTYwgJQCsibgTU4sjtRUzjIiG6Ur7gYRpx1QMkpEHW8W4HT0pIK8goEvP5LbgSEKTgQ4Ltm8ftgYynfcL8x6G-IOYLD8GCcz8yeB5Z8UeMY1Rg77EXQ4z5BdZnL1PXuB54QBSXyGFIoQkeOS9Em0L15BdwGzRMHhomtOU9Ht3SEwB95~wk~78OmRuVBeaEuXTPtPjH-UY3TNvZY~iQQQ3yEyVMQL0yAsyub~DXwrOgDpqR9EWmDQSlEaUIJ0g0268lGokA__" alt="" />
+            <h1 class="text-3xl font-normal">Coming soon</h1>
+            <br />
+            <img class="h-[500px]" src="   https://s3-alpha-sig.figma.com/img/0bf0/058b/97eb164f1aacd9bcbc6860824d4a1814?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CXsuk9jiKEH9EoR27LMmQ0rWdfmq~uQaZPDnPNtGEpcEQCDxcmh0zql6TQIEZJ~YdTdAmX7xbBYRAh6c~UfafcJzvID2icUgE-pGlLEqQRljzjNBoDIPG-k23X7WNvZGKVGGQ3LCOEFZGditTYl2y9PQe8xMRTkD~0abk6pA0mGp6Mef48ByXBiqfGCL-rtQbRWhWbD8pd3mvPn2ugnJTyopeQKK~-jQZoJ2mu2p5Kc6-x~T2j9uBmJkOB7ldocsUetC56BGUaKUjTsoZG2WZpPtCirGyzOfd5rODrtrm0Ox5Ywai8lNNlIs0rD4pkJK20BOCo-jQk7idmI4BGc0sg__" alt="" />
+            <h1  class="text-3xl font-normal">password</h1>
+            </div>
+            <div>
+            <img class="h-[500px]" src="https://s3-alpha-sig.figma.com/img/6273/82fc/d82e0cd501a4171d02cbbe4e5972a22d?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qRMy9nP1N5ar1Yi7zypfwmDnOIjTVjD-WEUTLK7hZVuZ51oClzGOg4R~AOUrdhv-5Z~~rRizs6I~9GCCGL7zswsehukv08QTofPDAFHZAEapqHL1SJxAErhHOIMA5HhUK-IkdFIKQG3ceXEjkO~0Re9CCBbBEMJk6xbhj0r~~AME7XsrH1pdcjTB81Dbly9vbFCYlUYtVU7tXyrxkV21osygJzbRqgBZ1kGp0OqHFd4JYFVSXFbOgeMmaQycpLz1DIDYM4pXk2mrl3GsVLTbOktRI8uz9Cqyr~pixb9gRN4HtYxsQr6KTnU7mPOfg4DA5JzM3rw5nVMbQNMxik8Pkg__ " alt="" />
+            <h1  class="text-3xl font-normal">404</h1>
+            <br />
+            <img class="h-[500px]" src="https://s3-alpha-sig.figma.com/img/269e/3781/1ee87da465412d6c03691a0218312f4a?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X1OAHbs8M4GEfP4ZwjbJdxDjtOf6L0ACcVilwqiV9BKWVDbCCziFZ3~iqhuAE8BzBXGR5LYfqOLgt-NzA15zSiVwJ59Sh0p7CuFWjR~fewKUJayGsrDU~Wk7pOh422qVvcvtW31OLRdrAfH3iZiybg9hvEafRWW24-MPXD1lXCNWTcX1Sp9ETNWR0bNwVJLrl2aWMZN9VDA4SHsOpgroAPPxkGM3meubeViDg~Gj4tSy0eEoeBpO4mUrYAmhiCNnJ0HiqPz6mjrLV1uGt5SABoSLz1oewaF3jdJO0w9t5dhR8A6s~YoETueQeR8jjy0gzqjkR0iE78N4enhEh8t63w__" alt="" />
+            <h1  class="text-3xl font-normal">privacy policy</h1>
+            </div>
+
+        </div >
+
+        <div class="mt-10 ml-32"><img class="h-[500px]" src="https://s3-alpha-sig.figma.com/img/ec6c/66ad/5246ea03e977b50c43380c947f078e85?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ozfFiqq2A8zuNzbFjCpZwslPxt3brzLdHPG3ZrWx72Uu8f4DvoQuSyNPSqlnRssRIB08Xy9slcd4DeSVzg7S6~-3CYL1oS9k142s03hZCxJWq6ddKyBIiyyBzfUfqpg2KaOracty1IhTeIsWk-U01lT8JFg5QX8iNwghAblFjPN2kxp6t9v0kazPYsaNCVfbQenKX2~AslhXcy5QC-Nj-hWt7l2nhQB38o1w794gOkEOqcTex55o2~rFKURaUKIGLUBIm4Nk5k2fw4FILO919cp9SEKtEZFvmsqijJVDku-q0mH6cfzWsvtvH4tSSEJ99l6DoJcM4RXvXa5GUpCfJw__" alt="" />  <h1  class="text-3xl font-normal">terms and condition</h1>
+            </div>
+<div> <img class="ml-72" src="yuk.png" alt="" /></div>
+
         </div>
+
+
     )
 }
 export default vdc;
